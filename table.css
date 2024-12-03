@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+table, th, td{
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+td{
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 200px;
+
+}
+#tableh{
+    padding-right: 250px;
+}
